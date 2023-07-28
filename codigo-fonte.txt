@@ -1,4 +1,10 @@
 leonardo bononi
 
 teste teste
+<<<<<<< HEAD
 teste leo
+=======
+carol
+>>>>>>> e1d2d57f2ebad5476164836d65fb9595f954ba60
+
+asdasdasdasdasd
